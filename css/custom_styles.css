@@ -37,3 +37,14 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.contact
+{
+    font-size:20px;
+    color: bisque;
+}
+.contrib
+{
+    text-align: center;
+    font-size:14px;
+    color: burlywood;
+}
