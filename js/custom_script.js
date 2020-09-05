@@ -1,4 +1,4 @@
 function opening_alert()
 {
-    alert("Welcome to Tarka Sangraha Slides...\n\n If you are using desktop use left and right arrow keys\nto change the slides.\n\n If you are using mobile you can swipe to change the slides.");
+    alert("Welcome to Tarka Sangraha Slides...\n\nIf you are using desktop use left and right arrow keys to change the slides.\n\nIf you are using mobile you can swipe right or left to change the slides.");
 }
