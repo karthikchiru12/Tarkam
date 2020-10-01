@@ -5,19 +5,19 @@
     -webkit-text-fill-color: transparent;
     font-size:120px;
     text-align: center;
-    font-family: 'Eczar', serif;
+    font-family: 'Yatra One', cursive;
 }
 .sub
 {
     font-size:50px;
     text-align: center;
-    font-family: 'Eczar', serif;
+    font-family: 'Yatra One', cursive;
 
 }
 .shloka
 {
     text-align: left;
-    font-family: 'Eczar', serif;
+    font-family: 'Yatra One', cursive;
 }
 .topic
 {
@@ -26,12 +26,12 @@
     -webkit-text-fill-color: transparent;
     font-size:70px;
     text-align: center;
-    font-family: 'Eczar', serif;
+    font-family: 'Yatra One', cursive;
 }
 
 .topic_ending
 {
-    font-family: 'Eczar', serif;
+    font-family: 'Yatra One', cursive;
     text-align: center;
     background-image: linear-gradient(45deg, #f3ec78, #af4261);
     -webkit-background-clip: text;
